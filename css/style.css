@@ -156,6 +156,7 @@ h3 {
     .nosotros {
         grid-template-columns: repeat(2, 1fr);
         column-gap: 2rem;
+        margin: 1rem;
     }
 }
 .nosotros__imagen {
@@ -176,7 +177,13 @@ h3 {
 @media (min-width: 768px) {
     .bloques {
         grid-template-columns: repeat(4, 1fr);
+        margin: 1rem;
     }
+}
+@media (max-width: 500px) {
+   .nosotros {
+    margin: 1rem;
+   }
 }
 
 .bloque {
@@ -193,7 +200,20 @@ h3 {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         column-gap: 2rem;
+        margin-right: 1rem;
     }
+}
+@media (max-width:  500px) {
+    .formulario__campo {
+        grid-column: 1 / 1;
+        margin: auto 5rem;
+        
+    }
+    .camisa__contenido p{
+        margin: 1rem 1.5rem;
+        align-items: center;
+    }
+    
 }
 
 .formulario {
