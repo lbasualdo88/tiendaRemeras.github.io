@@ -18,7 +18,7 @@ Frontend<br/>
 <br/>
 <strong>Tecnologías Usadas en el Proyecto:</strong><br/>
 HTML <br/>
-CSS (incluyendo CSS Grid) <br/>
+CSS <br/>
 JavaScript <br/>
 <br/>
 <strong>Funcionalidad del Proyecto:</strong><br/>
