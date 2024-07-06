@@ -8,7 +8,7 @@ Académico<br/>
 Juan De la Torre Valdez<br/>
 <br/>
 <strong>Institución:</strong><br/>
-Para Alura Latam como Trabajo Práctico<br/>
+Udemy<br/>
 <br/>
 <strong>Curso de donde se aprendió:</strong><br/>
 Desarrollo Web Completo<br/>
